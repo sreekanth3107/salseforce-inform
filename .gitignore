@@ -1,8 +1,0 @@
-config.json
-node_modules
-npm-debug.log
-.azcli
-packages
-.vscode
-dist
-*.zip
